@@ -10,7 +10,7 @@ shopt -s inherit_errexit
 # Args
 # ==========
 # 1. APP_NAME
-#    e.g.) xxx
+#    Name for calling a one-time password
 #
 ################################################################################
 : $1
